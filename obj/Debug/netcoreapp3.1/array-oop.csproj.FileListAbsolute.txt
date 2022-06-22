@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\array-oop\bin\Debug\netcoreapp3.1\array-oop.exe
+C:\Users\Windows\source\repos\array-oop\bin\Debug\netcoreapp3.1\array-oop.deps.json
+C:\Users\Windows\source\repos\array-oop\bin\Debug\netcoreapp3.1\array-oop.runtimeconfig.json
+C:\Users\Windows\source\repos\array-oop\bin\Debug\netcoreapp3.1\array-oop.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\array-oop\bin\Debug\netcoreapp3.1\array-oop.dll
+C:\Users\Windows\source\repos\array-oop\bin\Debug\netcoreapp3.1\array-oop.pdb
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.AssemblyInfo.cs
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.dll
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.pdb
+C:\Users\Windows\source\repos\array-oop\obj\Debug\netcoreapp3.1\array-oop.genruntimeconfig.cache
